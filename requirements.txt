@@ -1,0 +1,4 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+ipython==8.22.1
+ollama==0.1.6
